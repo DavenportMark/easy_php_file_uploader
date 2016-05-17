@@ -17,4 +17,4 @@ like so:
 Call uploadFile inside any php file that has access to ```$_FILES``` inside of the ```$_POST``` array.
 
 To handle the file upload simply call
-```$uploader->uploadFile();```
+``` $uploader->uploadFile(); ```
